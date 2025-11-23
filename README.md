@@ -18,7 +18,7 @@ This project models triathlon performance using object-oriented Python classes f
 
 ## How to Use
 1. Clone the repository and install requirements:
-   - git clone https://github.com/yourusername/triathlon-outcomes.git
+   - git clone https://github.com/Jil-mueller/CMSE202-f25-Honors-Project.git
 2. Run the simulation
 3. Adjust metrics:
    - Change swim, bike, and run paces by editing the Triathlete class inputs.
